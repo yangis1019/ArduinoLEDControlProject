@@ -1,5 +1,5 @@
 # ArduinoLEDControlProject
-RGB LED를 조이스틱과 가변저항으로 조작함
+RGB LED를 조이스틱과 가변저항으로 조작함.~~대충 만든거~~
 
 ## How to Setup
 LED는 9(R), 10(G), 11(B) 포트에 연결
